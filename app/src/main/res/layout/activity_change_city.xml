@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/wbackground"
+    android:orientation="vertical"
+    tools:context=".ChangeCity">
+
+    <TextView
+        android:id="@+id/textView20"
+        android:layout_width="match_parent"
+        android:layout_height="66dp"
+        android:gravity="center"
+        android:text="Change City"
+        android:textSize="36sp" />
+
+
+    <EditText
+        android:id="@+id/city"
+        android:layout_width="331dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:ems="10"
+        android:inputType="text"
+        android:hint="Type your desired city name"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/change"
+        android:layout_width="193dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:text="Change city"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/defaultCity"
+        android:layout_width="267dp"
+        android:layout_height="74dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:text="Select default city (Berlin)"
+        android:textSize="18sp" />
+
+</LinearLayout>

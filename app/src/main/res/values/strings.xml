@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Owais SE 328 Project</string>
+    <string name="select">Select</string>
+    <string-array name="options">
+        <item>Student ID</item>
+        <item>Name</item>
+        <item>Sur Name</item>
+        <item>Father Name</item>
+        <item>National ID</item>
+        <item>Date of Birth</item>
+        <item>Gender</item>
+    </string-array>
+    <string-array name="update">
+        <item>Name</item>
+        <item>Sur Name</item>
+        <item>Father Name</item>
+        <item>National ID</item>
+        <item>Date of Birth</item>
+        <item>Gender</item>
+    </string-array>
+</resources>

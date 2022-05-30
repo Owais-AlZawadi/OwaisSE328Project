@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "340869536841",
+    "project_id": "owais-se-328-project",
+    "storage_bucket": "owais-se-328-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340869536841:android:3f2aed9694a5a2f814b398",
+        "android_client_info": {
+          "package_name": "com.example.owaisse328project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340869536841-br2b39v1sdnc24acaiks5l5nseng4v55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOi4n9dj3VHBMKvnQklPP1t9yoCQFxRWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340869536841-br2b39v1sdnc24acaiks5l5nseng4v55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
